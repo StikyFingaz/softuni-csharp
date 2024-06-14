@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Entry/Cake/bin/Debug/net8.0/Cake
+/home/stiky/VSCode Projects/SoftUni/Entry/Cake/bin/Debug/net8.0/Cake.deps.json
+/home/stiky/VSCode Projects/SoftUni/Entry/Cake/bin/Debug/net8.0/Cake.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Entry/Cake/bin/Debug/net8.0/Cake.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/Cake/bin/Debug/net8.0/Cake.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/Cake/obj/Debug/net8.0/Cake.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Entry/Cake/obj/Debug/net8.0/Cake.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/Cake/obj/Debug/net8.0/Cake.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Entry/Cake/obj/Debug/net8.0/Cake.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/Cake/obj/Debug/net8.0/Cake.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/Cake/obj/Debug/net8.0/refint/Cake.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/Cake/obj/Debug/net8.0/Cake.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/Cake/obj/Debug/net8.0/Cake.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/Cake/obj/Debug/net8.0/ref/Cake.dll

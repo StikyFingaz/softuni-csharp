@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Entry/Coins/bin/Debug/net8.0/Coins
+/home/stiky/VSCode Projects/SoftUni/Entry/Coins/bin/Debug/net8.0/Coins.deps.json
+/home/stiky/VSCode Projects/SoftUni/Entry/Coins/bin/Debug/net8.0/Coins.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Entry/Coins/bin/Debug/net8.0/Coins.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/Coins/bin/Debug/net8.0/Coins.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/Coins/obj/Debug/net8.0/Coins.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Entry/Coins/obj/Debug/net8.0/Coins.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/Coins/obj/Debug/net8.0/Coins.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Entry/Coins/obj/Debug/net8.0/Coins.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/Coins/obj/Debug/net8.0/Coins.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/Coins/obj/Debug/net8.0/refint/Coins.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/Coins/obj/Debug/net8.0/Coins.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/Coins/obj/Debug/net8.0/Coins.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/Coins/obj/Debug/net8.0/ref/Coins.dll

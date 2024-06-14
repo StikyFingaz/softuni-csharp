@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Entry/ExamTimes/bin/Debug/net8.0/ExamTimes
+/home/stiky/VSCode Projects/SoftUni/Entry/ExamTimes/bin/Debug/net8.0/ExamTimes.deps.json
+/home/stiky/VSCode Projects/SoftUni/Entry/ExamTimes/bin/Debug/net8.0/ExamTimes.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Entry/ExamTimes/bin/Debug/net8.0/ExamTimes.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/ExamTimes/bin/Debug/net8.0/ExamTimes.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/ExamTimes/obj/Debug/net8.0/ExamTimes.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Entry/ExamTimes/obj/Debug/net8.0/ExamTimes.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/ExamTimes/obj/Debug/net8.0/ExamTimes.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Entry/ExamTimes/obj/Debug/net8.0/ExamTimes.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/ExamTimes/obj/Debug/net8.0/ExamTimes.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/ExamTimes/obj/Debug/net8.0/refint/ExamTimes.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/ExamTimes/obj/Debug/net8.0/ExamTimes.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/ExamTimes/obj/Debug/net8.0/ExamTimes.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/ExamTimes/obj/Debug/net8.0/ref/ExamTimes.dll

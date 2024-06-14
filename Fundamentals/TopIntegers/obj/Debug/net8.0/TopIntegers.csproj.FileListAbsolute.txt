@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/TopIntegers/bin/Debug/net8.0/TopIntegers
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/TopIntegers/bin/Debug/net8.0/TopIntegers.deps.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/TopIntegers/bin/Debug/net8.0/TopIntegers.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/TopIntegers/bin/Debug/net8.0/TopIntegers.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/TopIntegers/bin/Debug/net8.0/TopIntegers.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/TopIntegers/obj/Debug/net8.0/TopIntegers.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/TopIntegers/obj/Debug/net8.0/TopIntegers.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/TopIntegers/obj/Debug/net8.0/TopIntegers.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/TopIntegers/obj/Debug/net8.0/TopIntegers.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/TopIntegers/obj/Debug/net8.0/TopIntegers.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/TopIntegers/obj/Debug/net8.0/refint/TopIntegers.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/TopIntegers/obj/Debug/net8.0/TopIntegers.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/TopIntegers/obj/Debug/net8.0/TopIntegers.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/TopIntegers/obj/Debug/net8.0/ref/TopIntegers.dll

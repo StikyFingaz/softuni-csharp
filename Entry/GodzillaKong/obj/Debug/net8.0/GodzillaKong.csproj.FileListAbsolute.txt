@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Entry/GodzillaKong/bin/Debug/net8.0/GodzillaKong
+/home/stiky/VSCode Projects/SoftUni/Entry/GodzillaKong/bin/Debug/net8.0/GodzillaKong.deps.json
+/home/stiky/VSCode Projects/SoftUni/Entry/GodzillaKong/bin/Debug/net8.0/GodzillaKong.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Entry/GodzillaKong/bin/Debug/net8.0/GodzillaKong.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/GodzillaKong/bin/Debug/net8.0/GodzillaKong.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/GodzillaKong/obj/Debug/net8.0/GodzillaKong.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Entry/GodzillaKong/obj/Debug/net8.0/GodzillaKong.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/GodzillaKong/obj/Debug/net8.0/GodzillaKong.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Entry/GodzillaKong/obj/Debug/net8.0/GodzillaKong.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/GodzillaKong/obj/Debug/net8.0/GodzillaKong.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/GodzillaKong/obj/Debug/net8.0/refint/GodzillaKong.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/GodzillaKong/obj/Debug/net8.0/GodzillaKong.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/GodzillaKong/obj/Debug/net8.0/GodzillaKong.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/GodzillaKong/obj/Debug/net8.0/ref/GodzillaKong.dll

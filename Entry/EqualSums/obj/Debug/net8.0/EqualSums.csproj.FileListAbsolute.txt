@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Entry/EqualSums/bin/Debug/net8.0/EqualSums
+/home/stiky/VSCode Projects/SoftUni/Entry/EqualSums/bin/Debug/net8.0/EqualSums.deps.json
+/home/stiky/VSCode Projects/SoftUni/Entry/EqualSums/bin/Debug/net8.0/EqualSums.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Entry/EqualSums/bin/Debug/net8.0/EqualSums.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/EqualSums/bin/Debug/net8.0/EqualSums.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/EqualSums/obj/Debug/net8.0/EqualSums.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Entry/EqualSums/obj/Debug/net8.0/EqualSums.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/EqualSums/obj/Debug/net8.0/EqualSums.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Entry/EqualSums/obj/Debug/net8.0/EqualSums.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/EqualSums/obj/Debug/net8.0/EqualSums.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/EqualSums/obj/Debug/net8.0/refint/EqualSums.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/EqualSums/obj/Debug/net8.0/EqualSums.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/EqualSums/obj/Debug/net8.0/EqualSums.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/EqualSums/obj/Debug/net8.0/ref/EqualSums.dll

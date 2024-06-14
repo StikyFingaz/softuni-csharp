@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Train(Lists)/bin/Debug/net8.0/Train(Lists)
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Train(Lists)/bin/Debug/net8.0/Train(Lists).deps.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Train(Lists)/bin/Debug/net8.0/Train(Lists).runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Train(Lists)/bin/Debug/net8.0/Train(Lists).dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Train(Lists)/bin/Debug/net8.0/Train(Lists).pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Train(Lists)/obj/Debug/net8.0/Train(Lists).GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Train(Lists)/obj/Debug/net8.0/Train(Lists).AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Train(Lists)/obj/Debug/net8.0/Train(Lists).AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Train(Lists)/obj/Debug/net8.0/Train(Lists).csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Train(Lists)/obj/Debug/net8.0/Train(Lists).dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Train(Lists)/obj/Debug/net8.0/refint/Train(Lists).dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Train(Lists)/obj/Debug/net8.0/Train(Lists).pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Train(Lists)/obj/Debug/net8.0/Train(Lists).genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Train(Lists)/obj/Debug/net8.0/ref/Train(Lists).dll

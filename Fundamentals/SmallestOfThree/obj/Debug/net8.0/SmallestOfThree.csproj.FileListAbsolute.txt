@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/SmallestOfThree/obj/Debug/net8.0/SmallestOfThree.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/SmallestOfThree/obj/Debug/net8.0/SmallestOfThree.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/SmallestOfThree/obj/Debug/net8.0/SmallestOfThree.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/SmallestOfThree/obj/Debug/net8.0/SmallestOfThree.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/SmallestOfThree/bin/Debug/net8.0/SmallestOfThree
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/SmallestOfThree/bin/Debug/net8.0/SmallestOfThree.deps.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/SmallestOfThree/bin/Debug/net8.0/SmallestOfThree.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/SmallestOfThree/bin/Debug/net8.0/SmallestOfThree.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/SmallestOfThree/bin/Debug/net8.0/SmallestOfThree.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/SmallestOfThree/obj/Debug/net8.0/SmallestOfThree.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/SmallestOfThree/obj/Debug/net8.0/refint/SmallestOfThree.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/SmallestOfThree/obj/Debug/net8.0/SmallestOfThree.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/SmallestOfThree/obj/Debug/net8.0/SmallestOfThree.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/SmallestOfThree/obj/Debug/net8.0/ref/SmallestOfThree.dll

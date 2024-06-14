@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Entry/EndingInSeven/bin/Debug/net8.0/EndingInSeven
+/home/stiky/VSCode Projects/SoftUni/Entry/EndingInSeven/bin/Debug/net8.0/EndingInSeven.deps.json
+/home/stiky/VSCode Projects/SoftUni/Entry/EndingInSeven/bin/Debug/net8.0/EndingInSeven.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Entry/EndingInSeven/bin/Debug/net8.0/EndingInSeven.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/EndingInSeven/bin/Debug/net8.0/EndingInSeven.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/EndingInSeven/obj/Debug/net8.0/EndingInSeven.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Entry/EndingInSeven/obj/Debug/net8.0/EndingInSeven.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/EndingInSeven/obj/Debug/net8.0/EndingInSeven.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Entry/EndingInSeven/obj/Debug/net8.0/EndingInSeven.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/EndingInSeven/obj/Debug/net8.0/EndingInSeven.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/EndingInSeven/obj/Debug/net8.0/refint/EndingInSeven.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/EndingInSeven/obj/Debug/net8.0/EndingInSeven.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/EndingInSeven/obj/Debug/net8.0/EndingInSeven.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/EndingInSeven/obj/Debug/net8.0/ref/EndingInSeven.dll

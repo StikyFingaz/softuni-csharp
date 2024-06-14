@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CommonElements/bin/Debug/net8.0/CommonElements
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CommonElements/bin/Debug/net8.0/CommonElements.deps.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CommonElements/bin/Debug/net8.0/CommonElements.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CommonElements/bin/Debug/net8.0/CommonElements.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CommonElements/bin/Debug/net8.0/CommonElements.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CommonElements/obj/Debug/net8.0/CommonElements.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CommonElements/obj/Debug/net8.0/CommonElements.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CommonElements/obj/Debug/net8.0/CommonElements.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CommonElements/obj/Debug/net8.0/CommonElements.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CommonElements/obj/Debug/net8.0/CommonElements.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CommonElements/obj/Debug/net8.0/refint/CommonElements.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CommonElements/obj/Debug/net8.0/CommonElements.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CommonElements/obj/Debug/net8.0/CommonElements.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CommonElements/obj/Debug/net8.0/ref/CommonElements.dll

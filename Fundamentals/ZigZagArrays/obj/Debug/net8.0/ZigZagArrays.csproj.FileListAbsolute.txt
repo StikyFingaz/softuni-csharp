@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ZigZagArrays/bin/Debug/net8.0/ZigZagArrays
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ZigZagArrays/bin/Debug/net8.0/ZigZagArrays.deps.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ZigZagArrays/bin/Debug/net8.0/ZigZagArrays.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ZigZagArrays/bin/Debug/net8.0/ZigZagArrays.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ZigZagArrays/bin/Debug/net8.0/ZigZagArrays.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ZigZagArrays/obj/Debug/net8.0/ZigZagArrays.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ZigZagArrays/obj/Debug/net8.0/ZigZagArrays.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ZigZagArrays/obj/Debug/net8.0/ZigZagArrays.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ZigZagArrays/obj/Debug/net8.0/ZigZagArrays.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ZigZagArrays/obj/Debug/net8.0/ZigZagArrays.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ZigZagArrays/obj/Debug/net8.0/refint/ZigZagArrays.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ZigZagArrays/obj/Debug/net8.0/ZigZagArrays.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ZigZagArrays/obj/Debug/net8.0/ZigZagArrays.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ZigZagArrays/obj/Debug/net8.0/ref/ZigZagArrays.dll

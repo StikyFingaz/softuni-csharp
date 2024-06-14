@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Entry/PrimeNonPrime/bin/Debug/net8.0/PrimeNonPrime
+/home/stiky/VSCode Projects/SoftUni/Entry/PrimeNonPrime/bin/Debug/net8.0/PrimeNonPrime.deps.json
+/home/stiky/VSCode Projects/SoftUni/Entry/PrimeNonPrime/bin/Debug/net8.0/PrimeNonPrime.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Entry/PrimeNonPrime/bin/Debug/net8.0/PrimeNonPrime.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/PrimeNonPrime/bin/Debug/net8.0/PrimeNonPrime.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/PrimeNonPrime/obj/Debug/net8.0/PrimeNonPrime.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Entry/PrimeNonPrime/obj/Debug/net8.0/PrimeNonPrime.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/PrimeNonPrime/obj/Debug/net8.0/PrimeNonPrime.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Entry/PrimeNonPrime/obj/Debug/net8.0/PrimeNonPrime.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/PrimeNonPrime/obj/Debug/net8.0/PrimeNonPrime.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/PrimeNonPrime/obj/Debug/net8.0/refint/PrimeNonPrime.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/PrimeNonPrime/obj/Debug/net8.0/PrimeNonPrime.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/PrimeNonPrime/obj/Debug/net8.0/PrimeNonPrime.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/PrimeNonPrime/obj/Debug/net8.0/ref/PrimeNonPrime.dll

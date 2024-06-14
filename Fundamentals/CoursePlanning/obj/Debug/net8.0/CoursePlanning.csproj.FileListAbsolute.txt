@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CoursePlanning/bin/Debug/net8.0/CoursePlanning
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CoursePlanning/bin/Debug/net8.0/CoursePlanning.deps.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CoursePlanning/bin/Debug/net8.0/CoursePlanning.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CoursePlanning/bin/Debug/net8.0/CoursePlanning.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CoursePlanning/bin/Debug/net8.0/CoursePlanning.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CoursePlanning/obj/Debug/net8.0/CoursePlanning.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CoursePlanning/obj/Debug/net8.0/CoursePlanning.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CoursePlanning/obj/Debug/net8.0/CoursePlanning.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CoursePlanning/obj/Debug/net8.0/CoursePlanning.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CoursePlanning/obj/Debug/net8.0/CoursePlanning.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CoursePlanning/obj/Debug/net8.0/refint/CoursePlanning.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CoursePlanning/obj/Debug/net8.0/CoursePlanning.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CoursePlanning/obj/Debug/net8.0/CoursePlanning.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/CoursePlanning/obj/Debug/net8.0/ref/CoursePlanning.dll

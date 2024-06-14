@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Entry/Cinema/bin/Debug/net8.0/Cinema
+/home/stiky/VSCode Projects/SoftUni/Entry/Cinema/bin/Debug/net8.0/Cinema.deps.json
+/home/stiky/VSCode Projects/SoftUni/Entry/Cinema/bin/Debug/net8.0/Cinema.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Entry/Cinema/bin/Debug/net8.0/Cinema.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/Cinema/bin/Debug/net8.0/Cinema.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/Cinema/obj/Debug/net8.0/Cinema.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Entry/Cinema/obj/Debug/net8.0/Cinema.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/Cinema/obj/Debug/net8.0/Cinema.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Entry/Cinema/obj/Debug/net8.0/Cinema.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/Cinema/obj/Debug/net8.0/Cinema.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/Cinema/obj/Debug/net8.0/refint/Cinema.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/Cinema/obj/Debug/net8.0/Cinema.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/Cinema/obj/Debug/net8.0/Cinema.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/Cinema/obj/Debug/net8.0/ref/Cinema.dll

@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/KaminoFactory/bin/Debug/net8.0/KaminoFactory
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/KaminoFactory/bin/Debug/net8.0/KaminoFactory.deps.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/KaminoFactory/bin/Debug/net8.0/KaminoFactory.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/KaminoFactory/bin/Debug/net8.0/KaminoFactory.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/KaminoFactory/bin/Debug/net8.0/KaminoFactory.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/KaminoFactory/obj/Debug/net8.0/KaminoFactory.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/KaminoFactory/obj/Debug/net8.0/KaminoFactory.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/KaminoFactory/obj/Debug/net8.0/KaminoFactory.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/KaminoFactory/obj/Debug/net8.0/KaminoFactory.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/KaminoFactory/obj/Debug/net8.0/KaminoFactory.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/KaminoFactory/obj/Debug/net8.0/refint/KaminoFactory.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/KaminoFactory/obj/Debug/net8.0/KaminoFactory.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/KaminoFactory/obj/Debug/net8.0/KaminoFactory.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/KaminoFactory/obj/Debug/net8.0/ref/KaminoFactory.dll

@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ArrayManipulator/obj/Debug/net8.0/ArrayManipulator.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ArrayManipulator/obj/Debug/net8.0/ArrayManipulator.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ArrayManipulator/obj/Debug/net8.0/ArrayManipulator.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ArrayManipulator/obj/Debug/net8.0/ArrayManipulator.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ArrayManipulator/bin/Debug/net8.0/ArrayManipulator
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ArrayManipulator/bin/Debug/net8.0/ArrayManipulator.deps.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ArrayManipulator/bin/Debug/net8.0/ArrayManipulator.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ArrayManipulator/bin/Debug/net8.0/ArrayManipulator.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ArrayManipulator/bin/Debug/net8.0/ArrayManipulator.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ArrayManipulator/obj/Debug/net8.0/ArrayManipulator.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ArrayManipulator/obj/Debug/net8.0/refint/ArrayManipulator.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ArrayManipulator/obj/Debug/net8.0/ArrayManipulator.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ArrayManipulator/obj/Debug/net8.0/ArrayManipulator.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/ArrayManipulator/obj/Debug/net8.0/ref/ArrayManipulator.dll

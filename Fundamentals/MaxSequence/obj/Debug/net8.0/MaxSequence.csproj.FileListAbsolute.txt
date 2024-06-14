@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/MaxSequence/bin/Debug/net8.0/MaxSequence
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/MaxSequence/bin/Debug/net8.0/MaxSequence.deps.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/MaxSequence/bin/Debug/net8.0/MaxSequence.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/MaxSequence/bin/Debug/net8.0/MaxSequence.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/MaxSequence/bin/Debug/net8.0/MaxSequence.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/MaxSequence/obj/Debug/net8.0/MaxSequence.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/MaxSequence/obj/Debug/net8.0/MaxSequence.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/MaxSequence/obj/Debug/net8.0/MaxSequence.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/MaxSequence/obj/Debug/net8.0/MaxSequence.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/MaxSequence/obj/Debug/net8.0/MaxSequence.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/MaxSequence/obj/Debug/net8.0/refint/MaxSequence.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/MaxSequence/obj/Debug/net8.0/MaxSequence.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/MaxSequence/obj/Debug/net8.0/MaxSequence.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/MaxSequence/obj/Debug/net8.0/ref/MaxSequence.dll

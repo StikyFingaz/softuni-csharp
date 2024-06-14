@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Entry/NumberPyramid/bin/Debug/net8.0/NumberPyramid
+/home/stiky/VSCode Projects/SoftUni/Entry/NumberPyramid/bin/Debug/net8.0/NumberPyramid.deps.json
+/home/stiky/VSCode Projects/SoftUni/Entry/NumberPyramid/bin/Debug/net8.0/NumberPyramid.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Entry/NumberPyramid/bin/Debug/net8.0/NumberPyramid.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/NumberPyramid/bin/Debug/net8.0/NumberPyramid.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/NumberPyramid/obj/Debug/net8.0/NumberPyramid.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Entry/NumberPyramid/obj/Debug/net8.0/NumberPyramid.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/NumberPyramid/obj/Debug/net8.0/NumberPyramid.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Entry/NumberPyramid/obj/Debug/net8.0/NumberPyramid.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/NumberPyramid/obj/Debug/net8.0/NumberPyramid.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/NumberPyramid/obj/Debug/net8.0/refint/NumberPyramid.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/NumberPyramid/obj/Debug/net8.0/NumberPyramid.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/NumberPyramid/obj/Debug/net8.0/NumberPyramid.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/NumberPyramid/obj/Debug/net8.0/ref/NumberPyramid.dll

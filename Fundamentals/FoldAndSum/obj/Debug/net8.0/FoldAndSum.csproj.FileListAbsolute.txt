@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/FoldAndSum/bin/Debug/net8.0/FoldAndSum
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/FoldAndSum/bin/Debug/net8.0/FoldAndSum.deps.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/FoldAndSum/bin/Debug/net8.0/FoldAndSum.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/FoldAndSum/bin/Debug/net8.0/FoldAndSum.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/FoldAndSum/bin/Debug/net8.0/FoldAndSum.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/FoldAndSum/obj/Debug/net8.0/FoldAndSum.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/FoldAndSum/obj/Debug/net8.0/FoldAndSum.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/FoldAndSum/obj/Debug/net8.0/FoldAndSum.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/FoldAndSum/obj/Debug/net8.0/FoldAndSum.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/FoldAndSum/obj/Debug/net8.0/FoldAndSum.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/FoldAndSum/obj/Debug/net8.0/refint/FoldAndSum.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/FoldAndSum/obj/Debug/net8.0/FoldAndSum.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/FoldAndSum/obj/Debug/net8.0/FoldAndSum.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/FoldAndSum/obj/Debug/net8.0/ref/FoldAndSum.dll

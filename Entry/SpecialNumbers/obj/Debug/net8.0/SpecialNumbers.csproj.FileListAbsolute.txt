@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Entry/SpecialNumbers/bin/Debug/net8.0/SpecialNumbers
+/home/stiky/VSCode Projects/SoftUni/Entry/SpecialNumbers/bin/Debug/net8.0/SpecialNumbers.deps.json
+/home/stiky/VSCode Projects/SoftUni/Entry/SpecialNumbers/bin/Debug/net8.0/SpecialNumbers.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Entry/SpecialNumbers/bin/Debug/net8.0/SpecialNumbers.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/SpecialNumbers/bin/Debug/net8.0/SpecialNumbers.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/SpecialNumbers/obj/Debug/net8.0/SpecialNumbers.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Entry/SpecialNumbers/obj/Debug/net8.0/SpecialNumbers.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/SpecialNumbers/obj/Debug/net8.0/SpecialNumbers.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Entry/SpecialNumbers/obj/Debug/net8.0/SpecialNumbers.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/SpecialNumbers/obj/Debug/net8.0/SpecialNumbers.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/SpecialNumbers/obj/Debug/net8.0/refint/SpecialNumbers.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/SpecialNumbers/obj/Debug/net8.0/SpecialNumbers.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/SpecialNumbers/obj/Debug/net8.0/SpecialNumbers.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/SpecialNumbers/obj/Debug/net8.0/ref/SpecialNumbers.dll

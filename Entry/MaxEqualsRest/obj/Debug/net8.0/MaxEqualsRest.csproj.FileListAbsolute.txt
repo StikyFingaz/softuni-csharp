@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Entry/MaxEqualsRest/bin/Debug/net8.0/MaxEqualsRest
+/home/stiky/VSCode Projects/SoftUni/Entry/MaxEqualsRest/bin/Debug/net8.0/MaxEqualsRest.deps.json
+/home/stiky/VSCode Projects/SoftUni/Entry/MaxEqualsRest/bin/Debug/net8.0/MaxEqualsRest.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Entry/MaxEqualsRest/bin/Debug/net8.0/MaxEqualsRest.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/MaxEqualsRest/bin/Debug/net8.0/MaxEqualsRest.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/MaxEqualsRest/obj/Debug/net8.0/MaxEqualsRest.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Entry/MaxEqualsRest/obj/Debug/net8.0/MaxEqualsRest.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/MaxEqualsRest/obj/Debug/net8.0/MaxEqualsRest.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Entry/MaxEqualsRest/obj/Debug/net8.0/MaxEqualsRest.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/MaxEqualsRest/obj/Debug/net8.0/MaxEqualsRest.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/MaxEqualsRest/obj/Debug/net8.0/refint/MaxEqualsRest.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/MaxEqualsRest/obj/Debug/net8.0/MaxEqualsRest.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/MaxEqualsRest/obj/Debug/net8.0/MaxEqualsRest.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/MaxEqualsRest/obj/Debug/net8.0/ref/MaxEqualsRest.dll

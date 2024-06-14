@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Entry/SummerLine/bin/Debug/net8.0/SummerLine
+/home/stiky/VSCode Projects/SoftUni/Entry/SummerLine/bin/Debug/net8.0/SummerLine.deps.json
+/home/stiky/VSCode Projects/SoftUni/Entry/SummerLine/bin/Debug/net8.0/SummerLine.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Entry/SummerLine/bin/Debug/net8.0/SummerLine.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/SummerLine/bin/Debug/net8.0/SummerLine.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/SummerLine/obj/Debug/net8.0/SummerLine.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Entry/SummerLine/obj/Debug/net8.0/SummerLine.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/SummerLine/obj/Debug/net8.0/SummerLine.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Entry/SummerLine/obj/Debug/net8.0/SummerLine.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/SummerLine/obj/Debug/net8.0/SummerLine.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/SummerLine/obj/Debug/net8.0/refint/SummerLine.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/SummerLine/obj/Debug/net8.0/SummerLine.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/SummerLine/obj/Debug/net8.0/SummerLine.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/SummerLine/obj/Debug/net8.0/ref/SummerLine.dll

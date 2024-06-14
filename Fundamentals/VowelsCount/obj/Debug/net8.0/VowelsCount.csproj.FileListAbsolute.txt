@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/VowelsCount/bin/Debug/net8.0/VowelsCount
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/VowelsCount/bin/Debug/net8.0/VowelsCount.deps.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/VowelsCount/bin/Debug/net8.0/VowelsCount.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/VowelsCount/bin/Debug/net8.0/VowelsCount.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/VowelsCount/bin/Debug/net8.0/VowelsCount.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/VowelsCount/obj/Debug/net8.0/VowelsCount.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/VowelsCount/obj/Debug/net8.0/VowelsCount.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/VowelsCount/obj/Debug/net8.0/VowelsCount.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/VowelsCount/obj/Debug/net8.0/VowelsCount.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/VowelsCount/obj/Debug/net8.0/VowelsCount.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/VowelsCount/obj/Debug/net8.0/refint/VowelsCount.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/VowelsCount/obj/Debug/net8.0/VowelsCount.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/VowelsCount/obj/Debug/net8.0/VowelsCount.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/VowelsCount/obj/Debug/net8.0/ref/VowelsCount.dll

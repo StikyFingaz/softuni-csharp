@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Entry/OldBooks/obj/Debug/net8.0/OldBooks.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Entry/OldBooks/obj/Debug/net8.0/OldBooks.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/OldBooks/obj/Debug/net8.0/OldBooks.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Entry/OldBooks/obj/Debug/net8.0/OldBooks.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/OldBooks/bin/Debug/net8.0/OldBooks
+/home/stiky/VSCode Projects/SoftUni/Entry/OldBooks/bin/Debug/net8.0/OldBooks.deps.json
+/home/stiky/VSCode Projects/SoftUni/Entry/OldBooks/bin/Debug/net8.0/OldBooks.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Entry/OldBooks/bin/Debug/net8.0/OldBooks.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/OldBooks/bin/Debug/net8.0/OldBooks.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/OldBooks/obj/Debug/net8.0/OldBooks.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/OldBooks/obj/Debug/net8.0/refint/OldBooks.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/OldBooks/obj/Debug/net8.0/OldBooks.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/OldBooks/obj/Debug/net8.0/OldBooks.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/OldBooks/obj/Debug/net8.0/ref/OldBooks.dll

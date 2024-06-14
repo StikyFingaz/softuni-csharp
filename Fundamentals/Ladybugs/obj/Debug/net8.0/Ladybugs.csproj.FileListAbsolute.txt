@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Ladybugs/obj/Debug/net8.0/Ladybugs.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Ladybugs/obj/Debug/net8.0/Ladybugs.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Ladybugs/obj/Debug/net8.0/Ladybugs.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Ladybugs/obj/Debug/net8.0/Ladybugs.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Ladybugs/bin/Debug/net8.0/Ladybugs
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Ladybugs/bin/Debug/net8.0/Ladybugs.deps.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Ladybugs/bin/Debug/net8.0/Ladybugs.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Ladybugs/bin/Debug/net8.0/Ladybugs.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Ladybugs/bin/Debug/net8.0/Ladybugs.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Ladybugs/obj/Debug/net8.0/Ladybugs.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Ladybugs/obj/Debug/net8.0/refint/Ladybugs.dll
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Ladybugs/obj/Debug/net8.0/Ladybugs.pdb
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Ladybugs/obj/Debug/net8.0/Ladybugs.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Fundamentals/Ladybugs/obj/Debug/net8.0/ref/Ladybugs.dll

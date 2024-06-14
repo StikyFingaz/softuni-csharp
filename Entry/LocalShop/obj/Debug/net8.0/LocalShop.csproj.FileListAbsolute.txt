@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Entry/LocalShop/bin/Debug/net8.0/LocalShop
+/home/stiky/VSCode Projects/SoftUni/Entry/LocalShop/bin/Debug/net8.0/LocalShop.deps.json
+/home/stiky/VSCode Projects/SoftUni/Entry/LocalShop/bin/Debug/net8.0/LocalShop.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Entry/LocalShop/bin/Debug/net8.0/LocalShop.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/LocalShop/bin/Debug/net8.0/LocalShop.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/LocalShop/obj/Debug/net8.0/LocalShop.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Entry/LocalShop/obj/Debug/net8.0/LocalShop.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/LocalShop/obj/Debug/net8.0/LocalShop.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Entry/LocalShop/obj/Debug/net8.0/LocalShop.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/LocalShop/obj/Debug/net8.0/LocalShop.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/LocalShop/obj/Debug/net8.0/refint/LocalShop.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/LocalShop/obj/Debug/net8.0/LocalShop.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/LocalShop/obj/Debug/net8.0/LocalShop.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/LocalShop/obj/Debug/net8.0/ref/LocalShop.dll

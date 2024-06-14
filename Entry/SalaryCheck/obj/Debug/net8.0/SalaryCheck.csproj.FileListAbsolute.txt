@@ -1,0 +1,14 @@
+/home/stiky/VSCode Projects/SoftUni/Entry/SalaryCheck/bin/Debug/net8.0/SalaryCheck
+/home/stiky/VSCode Projects/SoftUni/Entry/SalaryCheck/bin/Debug/net8.0/SalaryCheck.deps.json
+/home/stiky/VSCode Projects/SoftUni/Entry/SalaryCheck/bin/Debug/net8.0/SalaryCheck.runtimeconfig.json
+/home/stiky/VSCode Projects/SoftUni/Entry/SalaryCheck/bin/Debug/net8.0/SalaryCheck.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/SalaryCheck/bin/Debug/net8.0/SalaryCheck.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/SalaryCheck/obj/Debug/net8.0/SalaryCheck.GeneratedMSBuildEditorConfig.editorconfig
+/home/stiky/VSCode Projects/SoftUni/Entry/SalaryCheck/obj/Debug/net8.0/SalaryCheck.AssemblyInfoInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/SalaryCheck/obj/Debug/net8.0/SalaryCheck.AssemblyInfo.cs
+/home/stiky/VSCode Projects/SoftUni/Entry/SalaryCheck/obj/Debug/net8.0/SalaryCheck.csproj.CoreCompileInputs.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/SalaryCheck/obj/Debug/net8.0/SalaryCheck.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/SalaryCheck/obj/Debug/net8.0/refint/SalaryCheck.dll
+/home/stiky/VSCode Projects/SoftUni/Entry/SalaryCheck/obj/Debug/net8.0/SalaryCheck.pdb
+/home/stiky/VSCode Projects/SoftUni/Entry/SalaryCheck/obj/Debug/net8.0/SalaryCheck.genruntimeconfig.cache
+/home/stiky/VSCode Projects/SoftUni/Entry/SalaryCheck/obj/Debug/net8.0/ref/SalaryCheck.dll
